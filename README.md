@@ -1,6 +1,6 @@
 # jpa01-yensydney
 
-Deployed at: http://jpa01-yensydney.dokku-11.cs.ucsb.edu
+Deployed at: https://jpa01-yensydney.dokku-11.cs.ucsb.edu
 
 
 # About this repo
